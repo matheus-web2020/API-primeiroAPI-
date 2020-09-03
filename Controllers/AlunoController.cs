@@ -23,7 +23,7 @@ namespace APIBoletim.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return id.ToString();
         }
 
         // POST api/<AlunoController>

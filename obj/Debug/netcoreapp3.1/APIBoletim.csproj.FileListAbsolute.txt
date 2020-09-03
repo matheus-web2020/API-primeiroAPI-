@@ -10,8 +10,6 @@ C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netco
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csprojAssemblyReference.cache
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.AssemblyInfoInputs.cache
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.AssemblyInfo.cs
-C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csproj.CoreCompileInputs.cache
-C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.RazorTargetAssemblyInfo.cache
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\staticwebassets\APIBoletim.StaticWebAssets.Manifest.cache
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\staticwebassets\APIBoletim.StaticWebAssets.xml
