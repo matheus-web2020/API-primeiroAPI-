@@ -16,3 +16,12 @@ C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netco
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.dll
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.pdb
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_Boletim\APIBoletim\obj\Debug\netcoreapp3.1\APIBoletim.csproj.CopyComplete
